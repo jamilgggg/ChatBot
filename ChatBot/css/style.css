@@ -1,0 +1,324 @@
+.navbar 
+{
+    box-shadow: 0 8px 6px -8px black;
+    background:rgba(255, 255, 255 , 0.95);
+    color: black;
+    
+}
+.logo
+{
+    width:150px;
+    height:100px;
+    margin-right:900px;
+}
+.nav-item
+{
+    margin-right: 20px;
+    
+}
+.body1
+{
+    background-image: linear-gradient(to right top, #4acefd, #34b1e5, #2194cc, #0f78b2, #005d98);
+}
+.body2
+{
+    background-image: linear-gradient(to right top, #ff5900, #e54e01, #cc4402, #b33a02, #9b3002);
+}
+.body3
+{
+    background-image: linear-gradient(to right top, #da0231, #cc003b, #bc0043, #aa0049, #98074c);
+}
+.body4
+{
+    background-image: linear-gradient(to right top, #6902da, #6700c4, #6400af, #5f019a, #590487);
+}
+.container
+{
+    margin-bottom: 100px;
+}
+#info
+{
+    margin:60px;
+    margin-top: 120px;
+}
+#cinfo
+{
+    margin:60px;
+    margin-top: 50px; 
+    margin-bottom:5px;
+}
+#about-info
+{
+    margin:60px;
+    margin-top: 120px;
+    background-image: linear-gradient(to right top, #4acefd, #34b1e5, #2194cc, #0f78b2, #005d98);
+    color: white;
+    box-shadow: 0 8px 6px -4px black;
+    
+}
+#contact-info
+{
+    margin-top: 120px;
+    background-image: linear-gradient(to right top, #4acefd, #34b1e5, #2194cc, #0f78b2, #005d98);
+    color: white;
+    box-shadow: 0 8px 6px -6px black;
+    
+}
+#info2
+{
+    background-image: linear-gradient(to right top, #4acefd, #34b1e5, #2194cc, #0f78b2, #005d98);
+    text-align: center;
+    box-shadow: 0 8px 6px -3px black;
+}
+.robot
+{
+    height:400px;
+}
+#info3
+{
+    background-color:white;
+    text-align: center;
+    font-size: 40px;
+    box-shadow: 0 8px 6px -3px black;
+}
+#btn1
+{
+    background-image: linear-gradient(to right top, #da0231, #cc003b, #bc0043, #aa0049, #98074c);
+    margin-top: 30px;
+}
+.info4
+{
+    font-size: 15px;
+    color: gray;
+}
+.category
+{
+    background-color:#272121;
+    padding: 11px;
+    color: gold;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-right: 20px;
+    box-shadow: 0 8px 6px -3px black;
+}
+#rhead
+{
+    width:50px;
+    height:50px;
+    margin-right:5px;
+    border-style: ridge;
+}
+#button1
+{
+    color: white;
+    font-size: 30px;
+    width: 500px;
+    box-shadow: 0 8px 6px -6px black;
+    margin-bottom: 15px;
+}
+.about-title
+{
+    font-size:45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:oblique;
+   
+}
+.about-content
+{
+    font-size:20px;
+    font-style:oblique;
+    text-align: justify;
+    margin:20px;
+   
+}
+.contact-content
+{
+    margin:20px;
+}
+.contact-pic
+{
+    width:70px;
+    height:70px;
+}
+.RoomInquiryBox
+{
+    background-color: white;
+    width: 500px;
+    min-width: 390px;
+    height: 550px;
+    margin:20px auto;
+    margin-bottom: -60px;
+    box-shadow: 0 8px 6px -6px black;
+}
+.FoodInquiryBox
+{
+    background-color: white;
+    width: 500px;
+    min-width: 390px;
+    height: 550px;
+    margin:20px auto;
+    margin-bottom: -60px;
+    box-shadow: 0 8px 6px -6px black;
+}
+.ActivityInquiryBox
+{
+    background-color: white;
+    width: 500px;
+    min-width: 390px;
+    height: 550px;
+    margin:20px auto;
+    margin-bottom: -60px;
+    box-shadow: 0 8px 6px -6px black;
+}
+.ShopInquiryBox
+{
+    background-color: white;
+    width: 500px;
+    min-width: 390px;
+    height: 550px;
+    margin:20px auto;
+    margin-bottom: -60px;
+    box-shadow: 0 8px 6px -6px black;
+}
+.header1
+{
+    background-image: linear-gradient(to right top, #25dc1d, #4ce52e, #66ee3c, #7df649, #91ff56);
+    padding: 11px;
+    color: white;
+    font-size: 30px;
+    padding-right: 20px;
+    text-align: center;
+   
+}
+.header2
+{
+    background-image: linear-gradient(to right top, #3d5c03, #3c5902, #3c5501, #3b5201, #3a4f00);
+    padding: 11px;
+    color: white;
+    font-size: 30px;
+    padding-right: 20px;
+    text-align: center;
+}
+.header3
+{
+    background-image: linear-gradient(to right top, #6902da, #6c00cc, #6d01be, #6d03b0, #6c06a3);
+    padding: 11px;
+    color: white;
+    font-size: 30px;
+    padding-right: 20px;
+    text-align: center;
+}
+.header4
+{
+    background-image: linear-gradient(to right top, #4acefd, #34b1e5, #2194cc, #0f78b2, #005d98);
+    padding: 11px;
+    color: white;
+    font-size: 30px;
+    padding-right: 20px;
+    text-align: center;
+}
+.chatlogs
+{
+    padding: 1px;
+    width:92%;
+    height: 300px;
+    margin: 20px ;
+    margin-right:50px;
+    margin-bottom: -10px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.chatlogs::-webkit-scrollbar
+{
+    width: 10px;
+}
+.chatlogs::-webkit-scrollbar-thumb
+{
+    border-radius: 5px;
+    background: rgba(0, 0,0,.1);
+    
+}
+.chat
+{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-start;
+    margin-bottom: 10px;
+}
+.chat .chatbot-photo
+{
+    width: 60px;
+    height: 60px;
+    background: #ccc;
+    border-radius: 50%;
+    overflow: hidden;
+    border-style: ridge;
+}
+.chat .chatbot-photo .chathead
+{
+    width:100%;
+}
+.chat .chat-message
+{
+    margin: 5px 10px 0;
+    padding: 15px;
+    background:#eee;
+    border-radius: 10px;
+    color:black;
+    font-size: 16px;
+}
+.bot .chat-message
+{
+    width: 70%;
+}
+.user .chat-message
+{
+    margin-left: 150px;
+    background: #6AD406;
+    color:#fff;
+}
+.user2 .chat-message
+{
+    margin-left: 150px;
+    background-image: linear-gradient(to right top, #3d5c03, #3c5902, #3c5501, #3b5201, #3a4f00);
+    color:#fff;
+}
+.user3 .chat-message
+{
+    margin-left: 150px;
+    background-image: linear-gradient(to right top, #6902da, #6c00cc, #6d01be, #6d03b0, #6c06a3);
+    color:#fff;
+}
+.user4 .chat-message
+{
+    margin-left: 150px;
+    background-image: linear-gradient(to right top, #4acefd, #34b1e5, #2194cc, #0f78b2, #005d98);
+    color:#fff;
+}
+.reply-space
+{
+    margin:20px;
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: -10px;
+}
+.logo2
+{
+    width:130px;
+    height:100px;
+    margin-left: 1200px;
+    margin-bottom: 10px;
+}
+.footer1
+{
+    background-color:#24201E  ;
+    color: white;
+    text-align: right;
+    padding:2px;
+}
+#footerlogo
+{
+    width:35px;
+    height:35px;
+    padding: 7px;
+}
